@@ -1,0 +1,17 @@
+{
+  "name": "pwd-gen-lukjetz",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "author": "Lukas Jetzinger",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "commander": "^15.0.0",
+    "nodemon": "^3.1.14"
+  }
+}
